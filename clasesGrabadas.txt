@@ -1,3 +1,16 @@
-clase 1: https://www.youtube.com/watch?v=iEh1z9VWWAs
-clase 2: https://youtu.be/vyL_VfyCMRA  
-clase 3: https://www.youtube.com/watch?v=HOAfjQiE8ss&feature=youtu.be
+Módulo 1: Introducción a las Bases de Datos
+	Clase 1: https://youtu.be/iEh1z9VWWAs
+	Clase 2: https://youtu.be/vyL_VfyCMRA  
+	Clase 3: https://youtu.be/HOAfjQiE8ss
+	
+Módulo 2: Lenguaje de Manipulación de Datos - MDL
+	Clase 4: https://youtu.be/Wa-7E5054AE
+	Clase 5: https://youtu.be/UzGn1pvIM-c
+	Clase 6: https://youtu.be/gVFqCeBfZk8
+	Clase 7: https://youtu.be/8O7S145Eq78
+	Clase 8: https://youtu.be/N6-gChUIpXQ
+ 
+Módulo 3: SQL - Ampliado
+	Clase 9: https://youtu.be/ESPWsx67wfY
+	Clase 10: https://youtu.be/Yq1pIedu-Ss
+	Clase 11: https://youtu.be/y6Su_3N5BlY
